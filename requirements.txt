@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+dvc
+pyyaml
+boto3
+dvc[s3]
+s3fs
+tensorflow
+xgboost
+tensorflow-metal
+tensorflow-macos
